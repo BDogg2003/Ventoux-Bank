@@ -1,6 +1,6 @@
 # Ventoux-Bank
 
-(//Discord server Link (currently WIP): https://discord.gg/sMr2EEcw //) 
+(// Discord server Link (currently WIP): https://discord.gg/sMr2EEcw //) 
 
 Agile Development + Class ProjectAgile Development + Class Project
 PURPOSE:
