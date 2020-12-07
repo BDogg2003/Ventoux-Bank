@@ -87,6 +87,10 @@ Below are some resources that can help you learn more about the topics above:
 
 
 18 Types of Bank Services: https://www.iedunote.com/bank-services 
+
 What Services Do Modern Banks Offer? https://www.stockmonkeys.com/what-services-do-modern-banks-offer-4BTIGOI3/
+
 What Else Banks Can Help With(Besides Banking): https://www.investopedia.com/personal-finance/what-else-banks-can-help-besides-banking/
+
 What Are The Different Types of Financial Services Provided By Banks: https://wikifinancepedia.com/finance/what-are-the-different-types-of-financial-services-provided-by-banks-banking-basics
+
