@@ -19,20 +19,22 @@ What am i going to do today?
 Are there any problems or impediments in my way? 
 SAMPLE RESPONSIBILITIES
 
-Scrum Master
+Scrum Master:
 Meet With Each Group: 5-10 Minutes Each Day
 Be Consistent with Scheduling and Attending Meetings
 Run Standups
 Communicate with Product Owner
 Create or Assign UML Design
 Work with Design/Development Team
-Product Owner
+
+Product Owner:
 Keeper of ALL Requirements
 Plan Order of Implementation
 Interface Between Teacher + Development Team + Scrum Master(s)
 Overview of Technical Developments + GitHub
 Sets Schedule for Product Releases + Evaluates Spreadsheets (Timeline)
-Development Teams
+
+Development Teams:
 Cross Functional Group - The CODERS!!
 Makes Real Time Decisions on Development
 Can Collaborate with Other Teams (STRONGLY ENCOURAGED)
@@ -46,7 +48,7 @@ https://www.cprime.com/resources/what-is-agile-what-is-scrum/
 
 http://agilemanifesto.org/principles.html
 
-Bank Project DetailsBank Project Details
+Bank Project Details:
 The Bank Project is a class assigned project that requires each member of the class to work within a design/programming team and to collaborate with your class as a whole. After you have reviewed the basics of the Agile Development process and identified roles within this process, you will organize your teams and begin to brainstorm ways in which you can ulitmately complete your group's tasks. In order for each student to receive an A, the project MUST be fully functional at a TBD date - failure to produce a fully functional product will result in a maximum grade of a B+ - no higher grade can be achieved if the project is incomplete!! So, let's get started. 
 
 
